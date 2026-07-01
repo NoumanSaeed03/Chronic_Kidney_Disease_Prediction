@@ -78,7 +78,7 @@ The following preprocessing steps were performed:
 ## 📊 Visualizations
 
 ### 📈 Accuracy Comparison
-![Accuracy Comparison](images/accuracy_comparison.png)
+![Accuracy Comparison](images/accuracy_plot.png)
 
 ---
 
@@ -88,7 +88,7 @@ The following preprocessing steps were performed:
 ---
 
 ### ⭐ Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/feature_importnce.png)
 
 ---
 
